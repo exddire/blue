@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bpr:release xmlns:bpr="http://www.blueprism.co.uk/product/release">
+    <bpr:name>comisiones - Release 5</bpr:name>
+    <bpr:release-notes />
+    <bpr:created>2020-12-15 13:31:17Z</bpr:created>
+    <bpr:package-id>4</bpr:package-id>
+    <bpr:package-name>comisiones</bpr:package-name>
+    <bpr:user-created-by>admin</bpr:user-created-by>
+    <bpr:contents count="9">
+        <environment-variable id="wait L" name="wait L" type="number" value="10" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+        <environment-variable id="wait M" name="wait M" type="number" value="3" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+        <environment-variable id="wait S" name="wait S" type="number" value="1" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+        <environment-variable id="wait XL" name="wait XL" type="number" value="15" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+        <environment-variable id="wait XS" name="wait XS" type="number" value="0.5" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+        <environment-variable id="wait XXL" name="wait XXL" type="number" value="30" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+        <environment-variable id="wait XXS" name="wait XXS" type="number" value="0.2" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+        <environment-variable id="wait XXXL" name="wait XXXL" type="number" value="60" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+        <environment-variable id="wait XXXS" name="wait XXXS" type="number" value="0.1" xmlns="http://www.blueprism.co.uk/product/environment-variable">
+            <description />
+        </environment-variable>
+    </bpr:contents>
+</bpr:release>
