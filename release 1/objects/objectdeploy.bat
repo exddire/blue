@@ -1,0 +1,1 @@
+"C:\Program Files\Blue Prism Limited\Blue Prism Automate\AutomateC.exe" /import "C:\Program Files\Blue Prism Limited\Blue Prism Automate\VBO\BPA Object - Calendars.XML" /overwrite /user %1 %2 /dbconname %3
